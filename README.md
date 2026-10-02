@@ -17,7 +17,7 @@
 ## 👨‍💻 Sobre mí
 
 - 🚀 Abierto a nuevas oportunidades y proyectos
-- 🔭 Trabajando en [Synergy Deck]
+- 🔭 Trabajando en **Synergy Deck**
 - 🌱 Profundizando en **.NET, Flutter, C# y Unity**
 - 📂 Todos mis proyectos: [github.com/marcovarasperez](https://github.com/marcovarasperez)
 - 📫 Escríbeme a **marcovarasperez@gmail.com**
