@@ -1,89 +1,105 @@
-👾 Hey! I'm Marco
+<p align="center">
+  <img src="https://github.com/marcovarasperez.png?size=200" alt="Marco Varas" width="150" height="150" />
+</p>
 
-🎮 Game Developer in progress · 💻 Programmer · 🚀 Always learning
+<h1 align="center">Hola 👋, soy Marco</h1>
+<h3 align="center">Desarrollador de software · Java · Flutter · C# · Unity</h3>
 
-I'm a developer passionate about programming and video games.
-Right now, I'm building my own video game with Unity and C# from scratch.
+<p align="center">
+  Construyo aplicaciones y videojuegos, con código limpio y que funciona.
+</p>
 
-╔══════════════════════════════════════════╗
-║  🎮 Currently developing a game in Unity ║
-║  ⚡ Learning • Creating • Experimenting  ║
-╚══════════════════════════════════════════╝
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=marcovarasperez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/marco-varas-p%C3%A9rez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Marco%20Varas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-🎮 What I'm working on
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marcovarasperez&label=Profile%20views&color=0e75b6&style=flat" alt="Visitas al perfil" />
+</p>
 
-🕹️ My own video game
+## 👨‍💻 Sobre mí
 
-I'm currently developing a game using Unity + C#, working on everything from gameplay mechanics to systems, interactions and level design.
+- 🚀 Abierto a nuevas oportunidades y proyectos
+- 🔭 Trabajando en [Synergy Deck](https://github.com/marcovarasperez/Synergy-Deck)
+- 🌱 Profundizando en **.NET, Flutter, C# y Unity**
+- 📂 Todos mis proyectos: [github.com/marcovarasperez](https://github.com/marcovarasperez)
+- 📫 Escríbeme a **marcovarasperez@gmail.com**
 
-🎯 Gameplay        ███████████░░░  75%
-🧠 Game Systems    █████████░░░░░  60%
-🗺️ Level Design    ████████░░░░░░  50%
-🎨 Visuals         ██████░░░░░░░░  40%
-🔊 Audio           ████░░░░░░░░░░  30%
+## ⭐ Proyecto destacado
 
+### [Synergy Deck](https://github.com/marcovarasperez/Synergy-Deck)
 
-🚧 The game is currently in development.
-More features coming soon...
+> Roguelike de cartas con combate automático en vista cenital y estructura por oleadas. Las cartas y el equipamiento definen la build del jugador.
 
-⚡ Tech Stack
-🎮 Game Development
-<p> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> </p>
-💻 Development
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/> </p>
-🌐 Other technologies
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
-🧠 What I'm learning
-+ 🎮 Unity & Game Development
-+ 💻 C# Programming
-+ 🧩 Game Mechanics
-+ 🗺️ Level Design
-+ 🧠 Game Systems
-+ 🔧 Git & Version Control
-+ 🚀 Software Development
+- **Tecnologías:** Unity, C#, ScriptableObjects, Input System, Git/GitHub
+- **Qué demuestra:** arquitectura de datos con ScriptableObjects, sistemas de juego modulares (estadísticas, slots de armas, gestión de ataques, IA enemiga y proyectiles) y código organizado en un repositorio versionado
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
-🎯 2026 Goals
-[████████████████░░░░] Build my first complete game
-[████████████░░░░░░░░] Improve my C# skills
-[██████████░░░░░░░░░░] Learn more about game architecture
-[████████░░░░░░░░░░░░] Create better 3D/2D assets
-[██████░░░░░░░░░░░░░░] Publish a game 🚀
+## 🛠️ Tecnologías
 
-🕹️ Current status
-Developer:
-  status: "Learning & Building"
+**Lenguajes**
 
-Current_Project:
-  engine: "Unity"
-  language: "C#"
-  status: "In Development"
+<p>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+</p>
 
-Currently:
-  - Learning
-  - Coding
-  - Creating
-  - Breaking things
-  - Fixing them again 😅
+**Frameworks y motores**
 
-🌟 Featured Project
-🎮 My Unity Game
+<p>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+</p>
 
-A personal video game project where I'm putting my programming and game development skills into practice.
+**Bases de datos**
 
-Tech: Unity · C# · Git
+<p>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+</p>
 
-🔗 View Project →
+**Herramientas**
 
-👀 Thanks for stopping by!
-     /\_/\
-    ( o.o )
-     > ^ <
+<p>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+</p>
 
-  Keep coding.
-  Keep creating.
-  Keep playing. 🎮
+## 📊 Estadísticas de GitHub
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcovarasperez&show_icons=true&locale=en" alt="Estadísticas" />&nbsp;&nbsp;
+  <img height="170" src="https://streak-stats.demolab.com/?user=marcovarasperez" alt="Racha" />
+</p>
 
-⭐ Feel free to check out my repositories and follow my progress!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcovarasperez&layout=compact&locale=en" alt="Lenguajes principales" />
+</p>
+
+---
+
+<h3 align="center">¿Tienes un proyecto o una vacante? Hablemos 🤝</h3>
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=marcovarasperez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Escr%C3%ADbeme-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Escríbeme" /></a>
+</p>
+
+<p align="center">📫 marcovarasperez@gmail.com</p>
