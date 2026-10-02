@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/marcovarasperez.png?size=200" alt="Marco Varas" width="150" height="150" />
-</p>
-
 <h1 align="center">Hola 👋, soy Marco</h1>
 <h3 align="center">Desarrollador de software · Java · Flutter · C# · Unity</h3>
 
@@ -83,18 +79,27 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
 
+###
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcovarasperez&show_icons=true&locale=en" alt="Estadísticas" />&nbsp;&nbsp;
-  <img height="170" src="https://streak-stats.demolab.com/?user=marcovarasperez" alt="Racha" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcovarasperez&show_icons=true&include_all_commits=true&theme=dracula&locale=en" height="170" alt="Estadísticas" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcovarasperez&layout=compact&locale=en" alt="Lenguajes principales" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcovarasperez&layout=compact&langs_count=5&theme=dracula&locale=en" height="170" alt="Lenguajes" />
+</div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=marcovarasperez&mode=daily&theme=dracula&border_radius=5&locale=en" height="170" alt="Racha" />
+</div>
+
+###
+
+<!-- <img src="https://raw.githubusercontent.com/peter1323/peter1323/main/github-user-contribution.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/peter1323/peter1323/main/github_provisonal.svg" alt="Snake animation" />
+
+###
 
 <h3 align="center">¿Tienes un proyecto o una vacante? Hablemos 🤝</h3>
 
