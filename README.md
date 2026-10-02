@@ -24,7 +24,7 @@
 
 ## ⭐ Proyecto destacado
 
-### [Synergy Deck](https://github.com/marcovarasperez/Synergy-Deck)
+### Synergy Deck
 
 > Roguelike de cartas con combate automático en vista cenital y estructura por oleadas. Las cartas y el equipamiento definen la build del jugador.
 
